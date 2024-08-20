@@ -92,5 +92,6 @@ sns.boxplot(x='sepal_width',data=delid)
 ```
 ![image](https://github.com/user-attachments/assets/7e417ff3-1078-47c0-99f7-042444c1aa44)
 
+
 # Result
            Thus we have cleaned the data and removed the outliers by detection using IQR method.
